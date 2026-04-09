@@ -1,58 +1,60 @@
-# Hi there 👋, I'm Junho Park!
+# 👨‍💻 Junho Park
 
-<table>
+<table align="right">
   <tr>
     <td>
-      <h3>🚀 "바둑의 수읽기처럼, 깊이 있게 고민하는 개발자 박준호입니다."</h3>
-      <p>안녕하세요! <b>대덕소프트웨어마이스터고등학교(DDSM)</b> 1학년 박준호입니다.<br>
-      바둑에서 다음 수를 고민하듯, 논리적이고 효율적인 코드를 작성하는 것을 즐깁니다.</p>
-    </td>
-    <td valign="top" width="150px">
-      <img src="https://images.unsplash.com/photo-1606132049909-66c5c767f4a2?q=80&w=300&auto=format&fit=crop" width="150px" alt="Baduk" style="border-radius: 10px;"/>
+      <img src="https://images.unsplash.com/photo-1606132049909-66c5c767f4a2?q=80&w=300&auto=format&fit=crop" width="180px" alt="Baduk" style="border-radius: 20px; border: 2px solid #333;"/>
+      <p align="center"><b>Mindset: Baduk ⚪⚫</b></p>
     </td>
   </tr>
 </table>
+
+### ♟ "한 수 앞을 내다보는 설계를 지향합니다."
+
+안녕하세요! **대덕소프트웨어마이스터고등학교(DDSM)** 1학년 박준호입니다.  
+복잡한 바둑판 위에서 최선의 수를 찾듯, 효율적이고 정교한 코드를 구현하는 것을 목표로 합니다.
+
+<br>
 
 ---
 
 ### 🛠 Tech Stacks
 
-**I'm currently using:**
-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+#### **Current Focus**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
 
-**I'm currently learning:**
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-- ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🍱 Hobbies & Interests
-
-**"개발만큼이나 바둑을 사랑합니다"**
-
-> 바둑 한 판을 두는 과정은 프로그램을 설계하는 과정과 닮았다고 생각합니다.<br>
-> 한 수 한 수 정성을 다해 최선의 결과를 만들어내는 개발자가 되겠습니다. ⚪⚫
+#### **Ongoing Journey**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
 ---
 
-### 🔭 Progress & Goals
+### 🔭 Progress & Roadmap
 
-- 🌱 **Learning:** 현재 고수준 언어인 **C**와 안드로이드 네이티브인 **Kotlin**, 데이터 활용도가 높은 **Python**을 공부 중입니다.
-- 🔭 **Working on:** Flutter를 활용해 실생활에 유용한 모바일 앱을 기획하고 있습니다.
-- 🏆 **Goal:** 탄탄한 기본기를 바탕으로, 복잡한 문제도 바둑처럼 차근차근 해결해 나가는 개발자가 되고 싶습니다.
-
----
-
-### 📊 GitHub Stats
-
-| ![Junho's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID_HERE&show_icons=true&theme=transparent) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID_HERE&layout=compact&theme=transparent) |
-| :---: | :---: |
+- 🌱 **Deep Dive:** 저수준의 원리를 이해하기 위한 **C언어**와 안드로이드 네이티브 역량을 위한 **Kotlin** 학습 중
+- 🚀 **Main Project:** Flutter 프레임워크를 활용한 사용자 친화적인 모바일 서비스 개발
+- 💡 **Passion:** 바둑의 전략적 사고방식을 소프트웨어 아키텍처 설계에 적용하기
 
 ---
 
-### 📫 Contact Me
+### 📊 Analysis
 
-- **School:** Daedeok Software Meister High School
-- **Email:** [20261107@dsm.hs.kr]
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID_HERE&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Junho's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID_HERE&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Langs" width="45%" />
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="left">
+<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://your-blog-link.com"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+</p>
+
+<br>
+
+> _"인생의 바둑판 위에서 가장 가치 있는 수를 두는 개발자가 되겠습니다."_
