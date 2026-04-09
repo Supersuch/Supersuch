@@ -55,4 +55,4 @@
 ### 📫 Contact Me
 
 - **School:** Daedeok Software Meister High School
-- **Email:** [여러분의 이메일 주소]
+- **Email:** [20261107@dsm.hs.kr]
