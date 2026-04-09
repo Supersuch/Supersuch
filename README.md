@@ -9,10 +9,10 @@
   </tr>
 </table>
 
-### ♟ "한 수 앞을 내다보는 설계를 지향합니다."
+### ♟ "정교한 수읽기로 견고한 코드를 설계합니다."
 
 안녕하세요! **대덕소프트웨어마이스터고등학교(DSM)** 1학년 박준호입니다.  
-복잡한 바둑판 위에서 최선의 수를 찾듯, 효율적이고 정교한 코드를 구현하는 것을 목표로 합니다.
+바둑의 한 수 한 수가 집을 짓듯, 의미 있는 코드 한 줄로 탄탄한 서비스를 만드는 것에 가치를 둡니다.
 
 <br>
 
@@ -20,9 +20,14 @@
 
 ### 🛠 Tech Stacks
 
-#### **Current Focus**
+#### **Main Expertise**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### **Web Fundamentals**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 #### **Ongoing Journey**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
@@ -33,9 +38,9 @@
 
 ### 🔭 Progress & Roadmap
 
-- 🌱 **Deep Dive:** 고수준의 원리를 이해하기 위한 **C언어**와 안드로이드 네이티브 역량을 위한 **Kotlin** 학습 중
-- 🚀 **Main Project:** Flutter 프레임워크를 활용한 사용자 친화적인 모바일 서비스 개발
-- 💡 **Passion:** 바둑의 전략적 사고방식을 소프트웨어 아키텍처 설계에 적용하기
+- 📱 **Mobile & Backend:** Flutter를 통한 앱 개발과 Java 기반의 백엔드 로직 학습에 집중하고 있습니다.
+- 🌐 **Web Skill-up:** HTML/CSS/JS를 활용해 웹의 동작 원리를 이해하고 UI를 직접 구현합니다.
+- 🌱 **Deep Dive:** C언어로 컴퓨터의 기초 구조를, Kotlin과 Python으로 기술의 폭을 넓히는 중입니다.
 
 ---
 
