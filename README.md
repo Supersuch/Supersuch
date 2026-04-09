@@ -1,9 +1,17 @@
 # Hi there 👋, I'm Junho Park!
 
-### 🚀 "바둑의 수읽기처럼, 깊이 있게 고민하는 개발자 박준호입니다."
-
-안녕하세요! **대덕소프트웨어마이스터고등학교(DDSM)** 1학년 박준호입니다.  
-바둑에서 다음 수를 고민하듯, 논리적이고 효율적인 코드를 작성하는 것을 즐깁니다.
+<table>
+  <tr>
+    <td>
+      <h3>🚀 "바둑의 수읽기처럼, 깊이 있게 고민하는 개발자 박준호입니다."</h3>
+      <p>안녕하세요! <b>대덕소프트웨어마이스터고등학교(DDSM)</b> 1학년 박준호입니다.<br>
+      바둑에서 다음 수를 고민하듯, 논리적이고 효율적인 코드를 작성하는 것을 즐깁니다.</p>
+    </td>
+    <td valign="top" width="150px">
+      <img src="https://images.unsplash.com/photo-1606132049909-66c5c767f4a2?q=80&w=300&auto=format&fit=crop" width="150px" alt="Baduk" style="border-radius: 10px;"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -23,10 +31,8 @@
 ### 🍱 Hobbies & Interests
 
 **"개발만큼이나 바둑을 사랑합니다"**
-<br>
-<img src="https://images.unsplash.com/photo-1593006526979-5f8814c229f9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" width="100%" alt="Baduk Board">
 
-> 바둑 한 판을 두는 과정은 프로그램을 설계하는 과정과 닮았다고 생각합니다.  
+> 바둑 한 판을 두는 과정은 프로그램을 설계하는 과정과 닮았다고 생각합니다.<br>
 > 한 수 한 수 정성을 다해 최선의 결과를 만들어내는 개발자가 되겠습니다. ⚪⚫
 
 ---
