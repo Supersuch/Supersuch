@@ -1,13 +1,6 @@
 # 👨‍💻 Junho Park
 
-<table align="right">
-  <tr>
-    <td>
-      <img src="https://images.unsplash.com/photo-1606132049909-66c5c767f4a2?q=80&w=300&auto=format&fit=crop" width="180px" alt="Baduk" style="border-radius: 20px; border: 2px solid #333;"/>
-      <p align="center"><b>Mindset: Baduk ⚪⚫</b></p>
-    </td>
-  </tr>
-</table>
+
 
 ### ♟ "정교한 수읽기로 견고한 코드를 설계합니다."
 
